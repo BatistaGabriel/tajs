@@ -1,0 +1,8 @@
+{
+    "jest.nodeEnv": {
+        "NODE_OPTIONS": "--experimental-vm-modules"
+    },
+    "cSpell.words": [
+        "TAJS"
+    ]
+}
