@@ -6,6 +6,18 @@ Get yourself some tea, and me!
 
 ## Content
 
+### Executing Debug Task
+
+In order to make vs code execute our debug task that we have created, we need to follow some steps:
+
+- first you have to chose a test file and open in an active tab to place a breakpoint
+- then (with the test file on the active tab) you can press `ctrl + shift + b`
+- and finally hit the `F5`
+
+That should handle all the necessary steps for you to get in the debug of the selected test file.
+
+***DISCLAIMER***: On my machine it took a little time for the IDE to get into the breakpoint I've created, so just wait a little bit :)
+
 ### Setting .nvmrc file content
 
 In order to follow some best practices on node projects, we are going to use [NVM](https://github.com/nvm-sh/nvm). One of the required things in the project is to have on the root of your project folder a file called `.nvmrc` which should contain the node version that better suits the project. 
