@@ -1,4 +1,4 @@
-# tajs
+# Método TAJS - Testes Automatizados com JavaScript
 
 On this repo you are going to follow me along the automated tests with JS course by the most famous and loved Brazilian dev [Erick Wendel](https://br.linkedin.com/in/erickwendel).
 
