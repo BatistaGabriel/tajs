@@ -6,6 +6,28 @@ Get yourself some tea, and me!
 
 ## Content
 
+### First Things to do
+
+In order to execute this project in the best way you will need to follow those steps:
+
+First on you terminal you will need to navigate to the folder where the `.nvmrc` file is located and run the following command:
+
+```bash
+nvm use
+```
+
+This will tel to nvm to use the version defined by the project as your current Node version
+
+Then you can run the command:
+
+```bash
+npm ci --silent
+```
+
+This will download all the dependencies that the project needs.
+
+After all you are good to go to!
+
 ### Executing Debug Task
 
 In order to make vs code execute our debug task that we have created, we need to follow some steps:
